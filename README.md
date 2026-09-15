@@ -76,33 +76,44 @@ Choose R1 = 1kΩ, Rf=10kΩ
 
 **INVERTING AMPLIFIER:**
   **CIRCUIT DIAGRAM**
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/7680c60a-a1ab-410d-b0b0-de3c85642f17" />
 
 
   **MODEL GRAPH:**
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/039f6c97-2bc5-4d2f-aae3-93d441c52a42" />
 
 
   **TABULATION:**
- 
+ <img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/6dc520b1-06a0-4a9a-be60-bab3d11fb431" />
+
 
 **MODEL CALCULATION:**
 
 **NON INVERTING AMPLIFIER:**
   **CIRCUIT DIAGRAM**
 
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/7059dc75-77ca-4a96-9ab0-1344a5e27e5b" />
 
   **MODEL GRAPH:**
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/dbdf00d9-d5ea-4ffd-a337-60ae933b58d6" />
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/953754f3-55a4-48c3-98f9-0b12f93bfd50" />
 
 
   **TABULATION:**
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/c0b933fe-b15f-4521-8d94-43797787cce7" />
 
   **DIFFERENTIAL AMPLIFIER:**
   **CIRCUIT DIAGRAM**
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/9c3b9a8f-10d5-4da7-b08d-f166751f4836" />
 
 
   **MODEL GRAPH:**
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/fa8f6f74-e585-4224-b2cf-f1da8bffbb81" />
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/69adb2bc-58a8-4c98-a52c-85bcc08a1e32" />
 
 
   **TABULATION:**
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/72b75baa-47be-4a44-a27c-09677d519d8e" />
 
 **LT-SPICE Tool:PROCEDURE:**
 •	Double click on LT-Spice icon.
@@ -115,6 +126,11 @@ Choose R1 = 1kΩ, Rf=10kΩ
  
   **LT SPICE**
   **CIRCUIT and Waveform**
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/659cb31c-4460-4e2c-b938-46b36abc9a2a" />
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/dc95bb64-0726-4eda-bdfe-c19598cb1afa" />
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/5364588f-9da9-4c68-8c0d-910a91e2585e" />
+
+
   
 
 **RESULT:**
